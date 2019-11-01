@@ -16,20 +16,10 @@ code {
   border: 1px solid red;
 }
 
-textarea {
-  margin: 14px 0;
-  width: 94%;
-  height: 80px;
-  font-size: 14px;
-  padding: 7px 6px;
+.noError, .error{
+  font-size: 10px;
 }
 
-#gender{
-  display: inline-block;
-  margin-top: 15px;
-}
-
-#petChoice{
-  display: inline-block;
-  margin: 15px 0;
+.error{
+  color: red;
 }

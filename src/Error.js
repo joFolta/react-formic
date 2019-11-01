@@ -6,10 +6,10 @@ const Error = ({ touched, message }) => {
   }
   // if touched, and...
   if (message) {
-    return <div>{message}</div>;
+    return <div className="error">{message}</div>;
   }
   // if no message, then...
-  return <div>all good</div>;
+  return <div className="noError">all good</div>;
 };
 
 export default Error;
