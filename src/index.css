@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+.has-errors{
+  border: 1px solid red;
+}
+
 textarea {
   margin: 14px 0;
   width: 94%;

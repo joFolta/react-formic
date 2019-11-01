@@ -5,7 +5,9 @@
 Formic Practice 
 Following along https://www.youtube.com/watch?v=TxEVnaISj1w
 
-
+1) Capturing User Input
+2) Validation and Display Errors
+3) Submitting Form and Resetting
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
